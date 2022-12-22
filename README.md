@@ -1,2 +1,2 @@
 # Applied-Machine-Learning
-Assignments for COMS 4995 Applied Machine Learning course. Written in Python.
+Assignments for Columbia University's COMS 4995 Applied Machine Learning course. Written in Python.
